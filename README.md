@@ -26,7 +26,7 @@ Cybersecurity is a critical aspect of our digital world, and having access to th
 
 ## How to Use
 
-1. **Browsing Tools:** Explore the repository by browsing different categories to find tools and resources that match your specific needs.
+1. **Browsing Tools:** Explore the repository by browsing different categories to find tools and resources that match your specific needs (rest uploading soon)
   
 2. **Searching:** Use the search bar to find specific tools, articles, or topics you are interested in. 
 
@@ -38,7 +38,7 @@ We welcome contributions from the cybersecurity community. Whether you want to a
 
 ## License
 
-This project is licensed under the [MIT License](license). Feel free to use, modify, and distribute the content of this repository for educational and non-commercial purposes.
+This project is licensed under the [MIT License](license). Feel free to use, modify, and distribute the content of this repository for educational and non-commercial purposes...
 
 ---
 
