@@ -38,7 +38,7 @@ We welcome contributions from the cybersecurity community. Whether you want to a
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the content of this repository for educational and non-commercial purposes.
+This project is licensed under the [MIT License](license). Feel free to use, modify, and distribute the content of this repository for educational and non-commercial purposes.
 
 ---
 
