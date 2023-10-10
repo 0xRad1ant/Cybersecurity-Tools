@@ -1,6 +1,13 @@
+# Cybersecurity-Tools - License
+
+Cybersecurity-Tools is licensed under the **MIT License** - see the [LICENSE](license) file for details.
+
+## MIT License
+
+```
 MIT License
 
-Copyright (c) 2023 (Anshul-Choudhary)
+Copyright (c) [2023] [Anshul Choudhary]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +26,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
+
+---
+
+**Note:** Replace `[year]` with the current year and `[author]` with the appropriate entity or individual holding the copyright for the software. This license text provides users with the freedom to use, modify, and distribute the software under certain conditions. It is essential to include the full text of the MIT License in your project's `LICENSE` file for legal clarity.
