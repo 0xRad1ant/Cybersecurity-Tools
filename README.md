@@ -42,4 +42,4 @@ This project is licensed under the [MIT License](license). Feel free to use, mod
 
 ---
 
-Thank you for visiting Cybersecurity Tools! We hope you find the resources here valuable and encourage you to contribute to making cybersecurity knowledge accessible to everyone.
+Thank you for visiting Cybersecurity Tools! We hope you find the resources here valuable and encourage you to contribute to making cybersecurity knowledge accessible to everyone
