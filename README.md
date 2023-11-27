@@ -1,6 +1,6 @@
 # Cybersecurity-Tools
 
-Cybersecurity Tools is your comprehensive inventory of tools and resources dedicated to the world of cybersecurity. This repository aims to assist individuals, businesses, and cybersecurity enthusiasts in finding everything related to cybersecurity in one place. Whether you are a beginner trying to understand the basics of cybersecurity or a seasoned professional looking for advanced tools, this repository has got you covered.
+Cybersecurity Tools is your comprehensive inventory of tools and resources dedicated to the world of cybersecurity. This repository aims to assist individuals, businesses, and cybersecurity enthusiasts in finding everything related to cybersecurity in one place. Whether you are a beginner trying to understand the basics of cybersecurity or a seasoned professional looking for advanced tools, this repository has got you covered
 
 ## Table of Contents
 
